@@ -16,7 +16,12 @@ export default function App() {
         </main>
 
         <footer>
-         <a href="#">Open-source code</a> by <a href="#">Ahriane</a>
+          <a href="https://github.com/misspx12/react-dictionary-webapp" 
+          target="_blank"
+          rel="noreferrer">
+          Open-source code</a> by <a href="https://dazzling-bartik-065b9b.netlify.app/"
+          target="_blank"
+          rel="noreferrer">Ahriane</a>
         </footer>
       </div>
     </div>
