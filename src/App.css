@@ -1,5 +1,16 @@
-header {
+body {
+  background: #97b9c7;
+}
+
+.App-header {
+  padding: 50px;
   text-align: center;
+  color: #181414;
+}
+
+header h1 {
+  font-family: "Just Me Again Down Here", cursive;
+  font-size: 70px;
 }
 
 footer {

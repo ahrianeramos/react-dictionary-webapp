@@ -6,7 +6,9 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          Your Dictionary
+          <h1>
+          your dictionary
+          </h1>
         </header>
 
         <main>
