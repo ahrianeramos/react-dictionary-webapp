@@ -1,5 +1,5 @@
 .Meaning section {
-  background: #f6f6f6; 
+  background: #f6f6f6;
   padding: 30px;
   border-radius: 6px;
   margin: 20px 0;
@@ -8,8 +8,8 @@
 }
 
 .Meaning h3 {
-  font-size: 23px;
-  font-weight: 300px;
+  font-size: 21px;
+  opacity: 0.9;
 }
 
 .Meaning #definition {

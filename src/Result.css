@@ -1,5 +1,5 @@
 .Result section {
-  background: #f6f6f6; 
+  background: #f6f6f6;
   padding: 30px;
   border-radius: 6px;
   margin: 20px 0;
@@ -7,3 +7,6 @@
   font-family: "Sora", sans-serif;
 }
 
+.Result h2 {
+  opacity: 0.9;
+}

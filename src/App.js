@@ -15,8 +15,8 @@ export default function App() {
           <Dictionary defaultKeyword="magic"/>
         </main>
 
-        <footer className="App-footer">
-         Open-source code by Ahriane 💻
+        <footer>
+         <a href="#">Open-source code</a> by <a href="#">Ahriane</a>
         </footer>
       </div>
     </div>
