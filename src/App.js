@@ -16,7 +16,7 @@ export default function App() {
         </main>
 
         <footer>
-          <a href="https://github.com/misspx12/react-dictionary-webapp" 
+          <a href="https://github.com/ahrianeramos/react-dictionary-webapp" 
           target="_blank"
           rel="noreferrer">
           Open-source code</a> by <a href="https://dazzling-bartik-065b9b.netlify.app/"
