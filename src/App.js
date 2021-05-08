@@ -19,7 +19,7 @@ export default function App() {
           <a href="https://github.com/ahrianeramos/react-dictionary-webapp" 
           target="_blank"
           rel="noreferrer">
-          Open-source code</a> by <a href="https://dazzling-bartik-065b9b.netlify.app/"
+          Open-source code</a> by <a href="https://ahrianerms.com"
           target="_blank"
           rel="noreferrer">Ahriane</a>
         </footer>
