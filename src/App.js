@@ -12,7 +12,7 @@ export default function App() {
         </header>
 
         <main>
-          <Dictionary defaultKeyword="magic"/>
+          <Dictionary defaultKeyword="dictionary"/>
         </main>
 
         <footer>
